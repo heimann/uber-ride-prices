@@ -105,3 +105,6 @@ venv.bak/
 
 # Database Files
 data/
+
+# VSCode 
+.vscode/
